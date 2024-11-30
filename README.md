@@ -45,3 +45,8 @@ Os caminhos identificados no grafo são:
 2º. **1 → 2 → 3 → 4 → 3 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 13 → 11 → 15 → 16 → 17**  
 3º. **1 → 2 → 3 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 13 → 14 → 11 → 15 → 16 → 17**  
 4º. **1 → 2 → 3 → 4 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12 → 15 → 16 → 17**
+
+## TESTE ESTÁTICO
+
+![Captura de tela 2024-11-30 181119](https://github.com/user-attachments/assets/f94f06f0-076d-43b1-8b5e-53b7628682b8)
+
